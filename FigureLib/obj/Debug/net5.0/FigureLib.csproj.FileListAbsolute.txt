@@ -1,0 +1,11 @@
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\bin\Debug\net5.0\FigureLib.deps.json
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\bin\Debug\net5.0\FigureLib.dll
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\bin\Debug\net5.0\ref\FigureLib.dll
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\bin\Debug\net5.0\FigureLib.pdb
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.AssemblyInfoInputs.cache
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.AssemblyInfo.cs
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.dll
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\ref\FigureLib.dll
+C:\Users\Kirill Kornakov\source\repos\FigureLib\FigureLib\obj\Debug\net5.0\FigureLib.pdb
