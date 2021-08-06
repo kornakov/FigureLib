@@ -1,4 +1,4 @@
-Пусть есть таблицы Products(id, name), Category(id, name), Products2Category(id_prod, id_cat)
+We have tables Products(id, name), Category(id, name), Products2Category(id_prod, id_cat)
 
 SELECT Products.name, Category.name
 FROM Products
